@@ -1,0 +1,143 @@
+export default [
+    // {
+    //   id: "1",
+    //   type: "input",
+    //   data: { label: "Input Node" },
+    //   position: { x: 300, y: 0 },
+    //   style: { backgroundColor: "#6ede87", color: "white", width: 'auto', height: 'auto' },
+    // },
+    {
+      id: "2",
+      data: { label: <div>Research</div> },
+      position: { x: 400, y: 10 },
+      style: { backgroundColor: "#ff0072", color: "white", width: 'auto', height: 'auto' },
+    },
+    {
+      id: "3",
+      data: { label: <div>Internal</div> },
+      position: { x: 300, y: 40 }, 
+      style: { backgroundColor: "#ff0072", color: "white", width: 'auto', height: 'auto' },
+    },
+    {
+      id: "4",
+      data: { label: <div>External</div> },
+      position: { x: 500, y: 40 }, 
+      style: { backgroundColor: "#ff0072", color: "white", width: 'auto', height: 'auto' },
+    },
+    // {
+    //     id: "5",
+    //     data: { label: <div>B2B</div> },
+    //     position: { x: 10, y: 290 }, 
+    //     style: { backgroundColor: "#ff0072", color: "white", width: 'auto', height: 'auto' },
+    //   },
+    //   {
+    //     id: "6",
+    //     data: { label: <div>B2B</div> },
+    //     position: { x: 70, y: 290 }, 
+    //     style: { backgroundColor: "#ff0072", color: "white", width: 'auto', height: 'auto' },
+    //   },
+    //   {
+    //     id: "7",
+    //     data: { label: <div>Online</div> },
+    //     position: { x: 20, y: 400 }, 
+    //     style: { backgroundColor: "#ff0072", color: "white", width: 'auto', height: 'auto' },
+    //   },
+    //   {
+    //     id: "8",
+    //     data: { label: <div>Interview</div> },
+    //     position: { x: 90, y: 400 }, 
+    //     style: { backgroundColor: "#ff0072", color: "white", width: 'auto', height: 'auto' },
+    //   },
+    //   {
+    //     id: "9",
+    //     data: { label: <div>Public Data</div> },
+    //     position: { x: 180, y: 400 }, 
+    //     style: { backgroundColor: "#ff0072", color: "white", width: 'auto', height: 'auto' },
+    //   },
+    //   {
+    //     id: "10",
+    //     data: { label: <div>Health</div> },
+    //     position: { x: 290, y: 400 }, 
+    //     style: { backgroundColor: "#ff0072", color: "white", width: 'auto', height: 'auto' },
+    //   },
+      {
+        id: "11",
+        data: { label: <div>Planning</div> },
+        position: { x: 400, y: 100 }, 
+        style: { backgroundColor: "#ff0072", color: "white", width: 'auto', height: 'auto' },
+      },
+    //   {
+    //     id: "12",
+    //     data: { label: <div>PRD</div> },
+    //     position: { x: 150, y: 200 }, 
+    //     style: { backgroundColor: "#ff0072", color: "white", width: 'auto', height: 'auto' },
+    //   },
+    //   {
+    //     id: "13",
+    //     data: { label: <div>Specs</div> },
+    //     position: { x: 200, y: 200 }, 
+    //     style: { backgroundColor: "#ff0072", color: "white", width: 'auto', height: 'auto' },
+    //   },
+
+      {
+        id: "14",
+        data: { label: <div>Designing</div> },
+        position: { x: 400, y: 200 }, 
+        style: { backgroundColor: "#ff0072", color: "white", width: 'auto', height: 'auto' },
+      },
+    //   {
+    //     id: "15",
+    //     data: { label: <div>Hardware</div> },
+    //     position: { x: 270, y: 200 }, 
+    //     style: { backgroundColor: "#ff0072", color: "white", width: 'auto', height: 'auto' },
+    //   },
+    //   {
+    //     id: "16",
+    //     data: { label: <div>Software</div> },
+    //     position: { x: 350, y: 200 }, 
+    //     style: { backgroundColor: "#ff0072", color: "white", width: 'auto', height: 'auto' },
+    //   },
+      {
+        id: "17",
+        data: { label: <div>Manufacturing</div> },
+        position: { x: 400, y: 300 }, 
+        style: { backgroundColor: "#ff0072", color: "white", width: 'auto', height: 'auto' },
+      },
+    //   {
+    //     id: "18",
+    //     data: { label: <div>Material</div> },
+    //     position: { x: 430, y: 200 }, 
+    //     style: { backgroundColor: "#ff0072", color: "white", width: 'auto', height: 'auto' },
+    //   },
+    //   {
+    //     id: "19",
+    //     data: { label: <div>Production</div> },
+    //     position: { x: 500, y: 200 }, 
+    //     style: { backgroundColor: "#ff0072", color: "white", width: 'auto', height: 'auto' },
+    //   },
+      {
+        id: "20",
+        data: { label: <div>Sales/Marketing</div> },
+        position: { x: 400, y: 400 }, 
+        style: { backgroundColor: "#ff0072", color: "white", width: 'auto', height: 'auto' },
+      },
+    //   {
+    //     id: "21",
+    //     data: { label: <div>Online</div> },
+    //     position: { x: 600, y: 200 }, 
+    //     style: { backgroundColor: "#ff0072", color: "white", width: 'auto', height: 'auto' },
+    //   },
+    //   {
+    //     id: "22",
+    //     data: { label: <div>Dealership</div> },
+    //     position: { x: 690, y: 200 }, 
+    //     style: { backgroundColor: "#ff0072", color: "white", width: 'auto', height: 'auto' },
+    //   },
+    //   {
+    //     id: "23",
+    //     data: { label: <div>Output</div> },
+    //     position: { x: 100, y: 500 }, 
+    //     style: { backgroundColor: "#ff0072", color: "white", width: 'auto', height: 'auto' },
+    //   },
+  ];
+  
